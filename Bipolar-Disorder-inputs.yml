@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/xmanic-bipolar-disorder---primary.py
+inputModule3:
+  class: File
+  path: python/affective-bipolar-disorder---primary.py
+inputModule4:
+  class: File
+  path: python/bipolar-disorder-psychoses---primary.py
+inputModule5:
+  class: File
+  path: python/hypomanic-bipolar-disorder---primary.py
+inputModule6:
+  class: File
+  path: python/current-bipolar-disorder---primary.py
+inputModule7:
+  class: File
+  path: python/severe-bipolar-disorder---primary.py
+inputModule8:
+  class: File
+  path: python/bipolar-disorder-depressed---primary.py
+inputModule9:
+  class: File
+  path: python/xmanicdepressive-bipolar-disorder---primary.py
+inputModule10:
+  class: File
+  path: python/bipolar-disorder-unspec---primary.py
+inputModule11:
+  class: File
+  path: python/moderate-bipolar-disorder---primary.py
+inputModule12:
+  class: File
+  path: python/partial-bipolar-disorder---primary.py
+inputModule13:
+  class: File
+  path: python/mixed-bipolar-disorder---primary.py
+inputModule14:
+  class: File
+  path: python/bipolar-disorder-xother---primary.py
+inputModule15:
+  class: File
+  path: python/bipolar-disorder-remission---primary.py
+inputModule16:
+  class: File
+  path: python/bipolar-disorder-[x]bipolar---primary.py
+inputModule17:
+  class: File
+  path: python/persistent-bipolar-disorder---primary.py
+inputModule18:
+  class: File
+  path: python/bipolar-disorder-psychosis---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
